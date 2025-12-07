@@ -5,8 +5,11 @@ This project develops two machine learning systems that detect whether a URL is 
 
 ## Repository Structure
 /report -> Final Report in PDF and Word
+
 /codes -> Jupyter Notebook
+
 /data -> Dataset used for training
+
 /pictures -> Images 
 
 
